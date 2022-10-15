@@ -4,7 +4,7 @@
 #### Discover below tips, tutorials, help on LemonMusic. If you have additional questions, contact support.  
   
 ## 🔔 Useful links  
-* [LemonMusic Website](https://lemonmusic.live/)  
+* [LemonMusic Website](https://lemonmusic.fr/)  
   
 ## ✨ Who created me?  
 <p align="center"><img src="https://www.anthonycode.fr/images/a3.png" width="150px"></p>  
